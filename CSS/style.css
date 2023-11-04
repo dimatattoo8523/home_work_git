@@ -1,0 +1,24 @@
+.header {
+    position: absolute;
+    width: 1440px;
+    height: 80px;
+    left: 0px;
+    top: 1px;
+    
+}
+.product {
+    color text-decoration-color: #FF9900;
+}
+
+.first_section {
+    padding-left: 0%;
+    list-style: none;
+    display: flex;
+
+   
+}
+
+.item {
+    display: inline-block;
+    width: 25%;
+}
